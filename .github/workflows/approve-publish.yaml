@@ -1,0 +1,21 @@
+name: PR Checks
+
+on:
+  pull_request:
+    branches:
+      - main
+      - features/*
+      - release/*
+
+jobs:
+  pr-checks:
+    name: "PR Checks"
+    runs-on: ubuntu-latest
+    environment: publish-bicep
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Add your steps here that do not require secrets
+      - name: Run tests
+        run: echo "Running tests..."
