@@ -179,7 +179,7 @@ jobs:
           repo: ${{ github.repository }}
           sha: ${{ env.CHECKOUT_REF }}
           status: completed
-           conclusion: ${{ job.status == 'success' && 'success' || 'failure' }}
+          conclusion: ${{ job.status == 'success' && 'success' || 'failure' }}
           output: |
             {"summary":"Publish Bicep Types run completed. See links for more information.","title":"Publish Radius bicep types to ACR"}
           details_url: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
