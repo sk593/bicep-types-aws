@@ -1,7 +1,7 @@
 {
   "arn": "arn:aws:cloudformation:us-west-2::type/resource/AWS-ApiGateway-RequestValidator",
   "type": "AWS::ApiGateway::RequestValidator",
-  "time": "2024-10-04T21:39:23.473Z",
+  "time": "2024-11-21T00:29:13.257Z",
   "schema": {
     "additionalProperties": false,
     "createOnlyProperties": [

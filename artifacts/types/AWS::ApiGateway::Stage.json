@@ -1,7 +1,7 @@
 {
   "arn": "arn:aws:cloudformation:us-west-2::type/resource/AWS-ApiGateway-Stage",
   "type": "AWS::ApiGateway::Stage",
-  "time": "2024-10-04T21:41:17.589Z",
+  "time": "2024-11-21T00:31:21.743Z",
   "schema": {
     "additionalProperties": false,
     "createOnlyProperties": [

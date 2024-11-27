@@ -1,7 +1,7 @@
 {
   "arn": "arn:aws:cloudformation:us-west-2::type/resource/AWS-IoTSiteWise-Gateway",
   "type": "AWS::IoTSiteWise::Gateway",
-  "time": "2024-10-15T22:18:59.635Z",
+  "time": "2024-11-20T18:36:21.746Z",
   "schema": {
     "additionalProperties": false,
     "createOnlyProperties": [

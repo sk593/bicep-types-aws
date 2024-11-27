@@ -1,7 +1,7 @@
 {
   "arn": "arn:aws:cloudformation:us-west-2::type/resource/AWS-EKS-Cluster",
   "type": "AWS::EKS::Cluster",
-  "time": "2024-10-21T22:26:17.528Z",
+  "time": "2024-11-26T07:43:01.152Z",
   "schema": {
     "additionalProperties": false,
     "createOnlyProperties": [

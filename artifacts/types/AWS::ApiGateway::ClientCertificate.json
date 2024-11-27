@@ -1,7 +1,7 @@
 {
   "arn": "arn:aws:cloudformation:us-west-2::type/resource/AWS-ApiGateway-ClientCertificate",
   "type": "AWS::ApiGateway::ClientCertificate",
-  "time": "2024-10-04T21:38:39.08Z",
+  "time": "2024-11-21T00:29:15.527Z",
   "schema": {
     "additionalProperties": false,
     "definitions": {

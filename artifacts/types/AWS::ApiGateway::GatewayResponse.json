@@ -1,7 +1,7 @@
 {
   "arn": "arn:aws:cloudformation:us-west-2::type/resource/AWS-ApiGateway-GatewayResponse",
   "type": "AWS::ApiGateway::GatewayResponse",
-  "time": "2024-10-04T21:40:34.772Z",
+  "time": "2024-11-21T00:27:58.956Z",
   "schema": {
     "additionalProperties": false,
     "createOnlyProperties": [
